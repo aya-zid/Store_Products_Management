@@ -1,7 +1,8 @@
 Store Management System
 Welcome to the Store Management System! This project is designed to manage products in a store efficiently. It's written in C language and features a graphical interface for easy interaction.
 
-- Features
+- Features :
+  
 Data Structure: Utilizes a singly linked list to store product information including code (ID), name, production date, expiration date, price, and quantity.
 
 Menu Bar: The menu bar provides easy access to various functions:
@@ -24,11 +25,13 @@ Ouvrir un Fichier: Lets you open either the "produit" text file to view its cont
 
 Error Handling: Ensures data integrity by validating inputs. You'll receive error pop-up messages if you enter incorrect data or forget to load the initial products.
 
-- Usage
+- Usage :
+  
 First Run: Click on "Creation" to initialize the product list and add the first product. This step is only required once.
 Subsequent Runs: Simply click on "Chargement" to load existing products from the "produit" file. Then, use other menu functions as needed.
 Saving Changes: Always remember to click on "Enregistrement" after making any modifications to save them back to the text file.
-- Notes
+- Notes :
+  
 Ensure correct data entry:
 Quantity must be a positive number.
 Product code should consist of three digits.
