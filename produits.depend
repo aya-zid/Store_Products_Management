@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1651433308 source:c:\users\hp\onedrive\desktop\produits\new.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"new.h"
+	<myconio.h>
+
+1651230379 c:\users\hp\onedrive\desktop\produits\new.h
+
+1651241027 source:c:\users\hp\onedrive\desktop\produits\main.c
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"new.h"
+
