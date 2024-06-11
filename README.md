@@ -1,5 +1,6 @@
-Store Management System
-Welcome to the Store Management System! This project is designed to manage products in a store efficiently. It's written in C language and features a graphical interface for easy interaction.
+Store Management System : 
+
+This project is designed to manage products in a store efficiently. It's written in C language and features a graphical interface for easy interaction.
 
 - Features :
   
