@@ -56,3 +56,6 @@ Price should be a positive float.
 Avoid clicking "Creation" after the first run unless you want to start a new product list from scratch.
 
 If you have any questions or encounter any issues, feel free to reach out.
+
+![image](https://github.com/aya-zid/Store_Products_Management/assets/71102523/482c2a71-5264-49d6-a179-7ff9097cb500)
+
